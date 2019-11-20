@@ -208,3 +208,73 @@
 2019-11-20 23:28:11,719 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
 2019-11-20 23:28:11,719 - PostStepDefinitions -INFO - Searching the post with invalid id 1234
 2019-11-20 23:28:12,763 - PostStepDefinitions -INFO - Getting statusCode as 404
+2019-11-20 23:49:57,580 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:00,587 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:00,593 - PostStepDefinitions -INFO - Searching the user Samantha
+2019-11-20 23:50:00,958 - PostStepDefinitions -INFO - The details for the user Samantha are fetched and the status is 200
+2019-11-20 23:50:01,010 - PostStepDefinitions -INFO -  Fetching The id of the user 
+2019-11-20 23:50:01,348 - PostStepDefinitions -INFO -  The id of the user is fetched as 3
+2019-11-20 23:50:01,352 - PostStepDefinitions -INFO -  Searching the userId of the user mentioned 
+2019-11-20 23:50:01,721 - PostStepDefinitions -INFO -  The userId written by user is fetched and the status is 200 
+2019-11-20 23:50:01,737 - PostStepDefinitions -INFO -  The userId of the user is fetched as 1
+2019-11-20 23:50:01,739 - PostStepDefinitions -INFO -  Searching for the posts written by the user 
+2019-11-20 23:50:02,080 - PostStepDefinitions -INFO -  The posts written by user are fetched and the status is 200 
+2019-11-20 23:50:02,084 - PostStepDefinitions -INFO -  Validating the emails in the comment section 
+2019-11-20 23:50:02,805 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Eliseo@gardner.biz
+2019-11-20 23:50:03,132 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Jayne_Kuhic@sydney.com
+2019-11-20 23:50:03,492 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Nikita@garfield.biz
+2019-11-20 23:50:03,821 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Lew@alysha.tv
+2019-11-20 23:50:04,149 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Hayden@althea.biz
+2019-11-20 23:50:04,461 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Presley.Mueller@myrl.com
+2019-11-20 23:50:04,785 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Dallas@ole.me
+2019-11-20 23:50:05,135 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Mallory_Kunze@marie.org
+2019-11-20 23:50:05,477 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Meghan_Littel@rene.us
+2019-11-20 23:50:05,812 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Carmen_Keeling@caroline.name
+2019-11-20 23:50:05,817 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:06,164 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:06,168 - PostStepDefinitions -INFO - Searching the user Samantha
+2019-11-20 23:50:06,486 - PostStepDefinitions -INFO - The details for the user Samantha are fetched and the status is 200
+2019-11-20 23:50:06,686 - PostStepDefinitions -INFO - API Users schema is correct
+2019-11-20 23:50:06,690 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:07,003 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:07,007 - PostStepDefinitions -INFO - Searching the user Samantha
+2019-11-20 23:50:07,316 - PostStepDefinitions -INFO - The details for the user Samantha are fetched and the status is 200
+2019-11-20 23:50:07,319 - PostStepDefinitions -INFO -  Searching the userId of the user mentioned 
+2019-11-20 23:50:07,652 - PostStepDefinitions -INFO -  The userId written by user is fetched and the status is 200 
+2019-11-20 23:50:07,660 - PostStepDefinitions -INFO -  The userId of the user is fetched as 1
+2019-11-20 23:50:07,664 - PostStepDefinitions -INFO - API Posts schema is correct
+2019-11-20 23:50:07,669 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:07,981 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:07,984 - PostStepDefinitions -INFO - Searching the user Samantha
+2019-11-20 23:50:08,299 - PostStepDefinitions -INFO - The details for the user Samantha are fetched and the status is 200
+2019-11-20 23:50:08,303 - PostStepDefinitions -INFO -  Fetching The id of the user 
+2019-11-20 23:50:08,312 - PostStepDefinitions -INFO -  The id of the user is fetched as 3
+2019-11-20 23:50:08,313 - PostStepDefinitions -INFO -  Searching the userId of the user mentioned 
+2019-11-20 23:50:08,616 - PostStepDefinitions -INFO -  The userId written by user is fetched and the status is 200 
+2019-11-20 23:50:08,626 - PostStepDefinitions -INFO -  The userId of the user is fetched as 1
+2019-11-20 23:50:08,627 - PostStepDefinitions -INFO -  Searching for the posts written by the user 
+2019-11-20 23:50:08,935 - PostStepDefinitions -INFO -  The posts written by user are fetched and the status is 200 
+2019-11-20 23:50:08,938 - PostStepDefinitions -INFO -  Validating the emails in the comment section 
+2019-11-20 23:50:09,604 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Eliseo@gardner.biz
+2019-11-20 23:50:09,925 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Jayne_Kuhic@sydney.com
+2019-11-20 23:50:10,251 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Nikita@garfield.biz
+2019-11-20 23:50:10,585 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Lew@alysha.tv
+2019-11-20 23:50:10,900 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Hayden@althea.biz
+2019-11-20 23:50:11,215 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Presley.Mueller@myrl.com
+2019-11-20 23:50:11,528 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Dallas@ole.me
+2019-11-20 23:50:11,843 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Mallory_Kunze@marie.org
+2019-11-20 23:50:12,159 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Meghan_Littel@rene.us
+2019-11-20 23:50:12,488 - PostStepDefinitions -INFO -  Emails in the comment section are in the proper format. Carmen_Keeling@caroline.name
+2019-11-20 23:50:12,500 - PostStepDefinitions -INFO - API Comments schema is correct
+2019-11-20 23:50:12,503 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:12,788 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:12,790 - PostStepDefinitions -INFO - Searching the user with invalid endpoint
+2019-11-20 23:50:13,094 - PostStepDefinitions -INFO - Getting statusCode as 404
+2019-11-20 23:50:13,102 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:13,409 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:13,412 - PostStepDefinitions -INFO - Searching the user with invalid id 345
+2019-11-20 23:50:13,715 - PostStepDefinitions -INFO - Getting statusCode as 404
+2019-11-20 23:50:13,719 - PostStepDefinitions -INFO - Checking whether the Post feature is available
+2019-11-20 23:50:14,022 - PostStepDefinitions -INFO - The Post feature is available and the status is 200
+2019-11-20 23:50:14,025 - PostStepDefinitions -INFO - Searching the post with invalid id 1234
+2019-11-20 23:50:14,358 - PostStepDefinitions -INFO - Getting statusCode as 404

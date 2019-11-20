@@ -54,7 +54,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 2786582700,
+  "duration": 3133026000,
   "status": "passed"
 });
 formatter.match({
@@ -67,35 +67,35 @@ formatter.match({
   "location": "PostStepDefinitions.searchUser(String)"
 });
 formatter.result({
-  "duration": 697972000,
+  "duration": 369111100,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.fetchUser()"
 });
 formatter.result({
-  "duration": 462322200,
+  "duration": 387361001,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.getUserId()"
 });
 formatter.result({
-  "duration": 709299700,
+  "duration": 385041800,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.searchPost()"
 });
 formatter.result({
-  "duration": 1463492700,
+  "duration": 342180501,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.validateEmail()"
 });
 formatter.result({
-  "duration": 8119904000,
+  "duration": 3729115800,
   "status": "passed"
 });
 formatter.scenario({
@@ -131,7 +131,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 340000500,
+  "duration": 348250800,
   "status": "passed"
 });
 formatter.match({
@@ -144,14 +144,14 @@ formatter.match({
   "location": "PostStepDefinitions.searchUser(String)"
 });
 formatter.result({
-  "duration": 306354100,
+  "duration": 318656100,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.schemaForUsersShouldBeCorrect()"
 });
 formatter.result({
-  "duration": 417979700,
+  "duration": 198078500,
   "status": "passed"
 });
 formatter.scenario({
@@ -192,7 +192,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 360357500,
+  "duration": 314464500,
   "status": "passed"
 });
 formatter.match({
@@ -205,21 +205,21 @@ formatter.match({
   "location": "PostStepDefinitions.searchUser(String)"
 });
 formatter.result({
-  "duration": 316013400,
+  "duration": 310459100,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.getUserId()"
 });
 formatter.result({
-  "duration": 706005800,
+  "duration": 341584201,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.schemaForPostShouldBeCorrect()"
 });
 formatter.result({
-  "duration": 3270200,
+  "duration": 3192699,
   "status": "passed"
 });
 formatter.scenario({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 345965000,
+  "duration": 311956499,
   "status": "passed"
 });
 formatter.match({
@@ -288,42 +288,42 @@ formatter.match({
   "location": "PostStepDefinitions.searchUser(String)"
 });
 formatter.result({
-  "duration": 334655700,
+  "duration": 315443401,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.fetchUser()"
 });
 formatter.result({
-  "duration": 13328700,
+  "duration": 11616000,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.getUserId()"
 });
 formatter.result({
-  "duration": 342535900,
+  "duration": 313110100,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.searchPost()"
 });
 formatter.result({
-  "duration": 323308400,
+  "duration": 309481400,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.validateEmail()"
 });
 formatter.result({
-  "duration": 3726751600,
+  "duration": 3549987300,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.schemaForCommentsShouldBeCorrect()"
 });
 formatter.result({
-  "duration": 1937800,
+  "duration": 12036900,
   "status": "passed"
 });
 formatter.scenario({
@@ -359,14 +359,14 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 323366100,
+  "duration": 284826400,
   "status": "passed"
 });
 formatter.match({
   "location": "PostStepDefinitions.searchingTheUserWithInvalidEndpoint()"
 });
 formatter.result({
-  "duration": 653383100,
+  "duration": 300553300,
   "status": "passed"
 });
 formatter.match({
@@ -379,7 +379,7 @@ formatter.match({
   "location": "PostStepDefinitions.theStatusCodeIs(int)"
 });
 formatter.result({
-  "duration": 1700600,
+  "duration": 2678699,
   "status": "passed"
 });
 formatter.scenario({
@@ -415,7 +415,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 312629500,
+  "duration": 307487900,
   "status": "passed"
 });
 formatter.match({
@@ -428,7 +428,7 @@ formatter.match({
   "location": "PostStepDefinitions.searchingTheUserWithInvalidId(int)"
 });
 formatter.result({
-  "duration": 774999900,
+  "duration": 301968699,
   "status": "passed"
 });
 formatter.match({
@@ -441,7 +441,7 @@ formatter.match({
   "location": "PostStepDefinitions.theStatusCodeIs(int)"
 });
 formatter.result({
-  "duration": 480300,
+  "duration": 733800,
   "status": "passed"
 });
 formatter.scenario({
@@ -477,7 +477,7 @@ formatter.match({
   "location": "PostStepDefinitions.featureIsAvailableToUser()"
 });
 formatter.result({
-  "duration": 323307400,
+  "duration": 304011599,
   "status": "passed"
 });
 formatter.match({
@@ -490,7 +490,7 @@ formatter.match({
   "location": "PostStepDefinitions.searchingThePostWithInvalidId(int)"
 });
 formatter.result({
-  "duration": 1041289100,
+  "duration": 330507900,
   "status": "passed"
 });
 formatter.match({
@@ -503,7 +503,7 @@ formatter.match({
   "location": "PostStepDefinitions.theStatusCodeIs(int)"
 });
 formatter.result({
-  "duration": 1152900,
+  "duration": 1035399,
   "status": "passed"
 });
 });
